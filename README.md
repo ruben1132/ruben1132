@@ -6,7 +6,6 @@
 </a>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruben1132)](https://github.com/ruben1132/github-readme-stats)
 
 <a href="https://github.com/ruben1132/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruben1132" />
