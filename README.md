@@ -1,4 +1,4 @@
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ruben1132)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ruben1132&theme=transparent&show_icons=true)
 
 
 <!--
