@@ -1,18 +1,4 @@
 
-Use `?theme=THEME_NAME` parameter like so :-
-
-```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
-```
-
-## Stats
-
-> These themes work both for the Stats Card and Repo Card.
-
-| | | |
-| :--: | :--: | :--: |
-| `default` ![default][default] | `transparent` ![transparent][transparent] | `shadow_red` ![shadow_red][shadow_red] |
-
 [transparent]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent
 
 
