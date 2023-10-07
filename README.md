@@ -3,7 +3,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruben1132)](https://github.com/ruben1132/github-readme-stats)
 
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ruben1132)](https://github.com/ruben1132/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=1191362)](https://github.com/ruben1132/github-readme-stats)
 
 <!--
 **ruben1132/ruben1132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
