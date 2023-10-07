@@ -1,8 +1,8 @@
 <picture>
-  <source height=200 align="center" src="https://ruben1132-vercel.vercel.app/api?username=ruben1132&show_icons=true&bg_color=github_dark" />
+  <source height=200 align="center" srcset="https://ruben1132-vercel.vercel.app/api?username=ruben1132&show_icons=true&bg_color=github_dark" />
 </picture>
 <picture>
-  <source height=200 align="center" src="https://ruben1132-vercel.vercel.app/api/top-langs?username=ruben1132&bg_color=github_dark&hide_border=true&layout=compact&langs_count=10&card_width=320" />
+  <source height=200 align="center" srcset="https://ruben1132-vercel.vercel.app/api/top-langs?username=ruben1132&bg_color=github_dark&hide_border=true&layout=compact&langs_count=10&card_width=320" />
 </picture>
 
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ruben1132&bg_color=github_dark&hide_border=true)](https://github.com/ruben1132/github-readme-stats)
