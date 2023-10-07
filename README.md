@@ -9,7 +9,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruben1132)](https://github.com/ruben1132/github-readme-stats)
 
 <a href="https://github.com/ruben1132/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruben1132" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruben1132" />
 </a>
 <a href="https://github.com/ruben1132/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Ruben1132" />
