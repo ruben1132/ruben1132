@@ -1,5 +1,5 @@
 <a>
-  <img height=200 align="center" src="https://ruben1132-vercel.vercel.app/api?username=ruben1132&show_icons=true&bg_color=github_dark" />
+  <img height=200 align="center" src="https://ruben1132-vercel.vercel.app/api?username=ruben1132&hide_border=true&theme=github_dark&show_icons=true" />
 </a>
 <a>
   <img height=200 align="center" src="https://ruben1132-vercel.vercel.app/api/top-langs?username=ruben1132&bg_color=github_dark&hide_border=true&layout=compact&langs_count=10&card_width=320" />
