@@ -1,18 +1,10 @@
 <a href="https://github.com/ruben1132/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ruben1132" />
 </a>
-<a href="https://github.com/ruben1132/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?ruben1132=anuraghazra&layout=compact&langs_count=10" />
+<a href="https://github.com/ruben1132/empresa">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ruben1132&layout=compact&langs_count=10&card_width=320" />
 </a>
 
-
-
-<a href="https://github.com/ruben1132/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruben1132" />
-</a>
-<a href="https://github.com/ruben1132/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Ruben1132" />
-</a>
 
 
 
