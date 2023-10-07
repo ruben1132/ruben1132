@@ -1,8 +1,8 @@
 <a href="https://github.com/ruben1132/github-readme-stats">
-  <img height=200 align="center" src="https://ruben1132-vercel-git-main-ruben1132s-projects.vercel.app/api?username=ruben1132" />
+  <img height=200 align="center" src="https://ruben1132-vercel.vercel.app/api?username=ruben1132" />
 </a>
 <a href="https://github.com/ruben1132/empresa">
-  <img height=200 align="center" src="https://ruben1132-vercel-git-main-ruben1132s-projects.vercel.app/api/top-langs?username=ruben1132&layout=compact&langs_count=10&card_width=320" />
+  <img height=200 align="center" src="https://ruben1132-vercel.vercel.app/api/top-langs?username=ruben1132&layout=compact&langs_count=10&card_width=320" />
 </a>
 
 
