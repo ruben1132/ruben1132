@@ -10,7 +10,10 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ruben1132&hide_border=true&theme=github_dark&show_icons=true" />
 </a>
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ruben1132&bg_color=github_dark&hide_border=true)](https://github.com/ruben1132/github-readme-stats)
+<br>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 
