@@ -13,7 +13,7 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-24%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-26%20hrs%202%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -21,9 +21,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 52.7 kB Used in GitHub's Storage 
+> 📦 52.9 kB Used in GitHub's Storage 
  > 
-> 🏆 595 Contributions in the Year 2023
+> 🏆 600 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -34,10 +34,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                50 commits          ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.49 % 
-🌆 Daytime                1083 commits        ⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   32.17 % 
-🌃 Evening                1747 commits        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   51.89 % 
-🌙 Night                  487 commits         ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   14.46 % 
+🌞 Morning                50 commits          ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.48 % 
+🌆 Daytime                1088 commits        ⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   32.27 % 
+🌃 Evening                1747 commits        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   51.81 % 
+🌙 Night                  487 commits         ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   14.44 % 
 ```
 
 
