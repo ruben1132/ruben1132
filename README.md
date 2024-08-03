@@ -13,7 +13,7 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-242%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-241%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -21,7 +21,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 774.7 kB Used in GitHub's Storage 
+> 📦 775.7 kB Used in GitHub's Storage 
  > 
 > 🏆 165 Contributions in the Year 2024
  > 
