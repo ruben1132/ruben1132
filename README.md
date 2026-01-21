@@ -32,3 +32,7 @@
 </picture>
 
 ###
+
+<img src="https://raw.githubusercontent.com/ruben1132/ruben1132/output/snake.svg" alt="Snake animation" />
+
+###
