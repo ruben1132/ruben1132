@@ -25,8 +25,6 @@
  > 
 > 🏆 10 Contributions in the Year 2025
  > 
-> 🚫 Not Opted to Hire
- > 
 > 📜 5 Public Repositories 
  > 
 > 🔑 9 Private Repositories 
