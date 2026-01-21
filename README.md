@@ -12,9 +12,7 @@
 <br>
 
 
-![](https://github-readme-stats.vercel.app/api?username=ruben1132&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ruben1132&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ruben1132&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://ruben1132-vercel.vercel.app/api?user=ruben1132&theme=dark&hide_border=false)<br/>
 
 
 ###
