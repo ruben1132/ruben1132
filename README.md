@@ -6,7 +6,16 @@
 <a href="https://github.com/ruben1132/">
   <img height=200 align="center" src="https://ruben1132-vercel.vercel.app/api/top-langs?username=ruben1132&hide_border=true&theme=github_dark&show_icons=true&layout=compact&langs_count=10&card_width=320" />
 </a>
+<a href="https://github.com/ruben1132/">
+  <img height=200 align="center" src="https://ruben1132-vercel.vercel.app/api/top-langs?username=ruben1132&hide_border=true&theme=github_dark&show_icons=true&layout=compact&langs_count=10&card_width=320" />
+</a>
 <br>
+
+
+![](https://github-readme-stats.vercel.app/api?username=ruben1132&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ruben1132&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ruben1132&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ###
 <div align="left">
