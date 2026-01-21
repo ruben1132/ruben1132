@@ -3,8 +3,12 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api](https://github-readme-stats.vercel.app/api?username=ruben1132&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api](https://github-readme-stats.vercel.app/api/top-langs?username=ruben1132&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true" height="150" alt="languages graph"  />
+<a href="https://github.com/ruben1132/github-readme-stats">
+  <img height=200 align="center" src="https://ruben1132-vercel.vercel.app/api?username=ruben1132&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true" />
+</a>
+<a href="https://github.com/ruben1132/">
+  <img height=200 align="center" src="https://ruben1132-vercel.vercel.app/api/top-langs?username=ruben1132&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true" />
+</a>
 </div>
 
 ###
